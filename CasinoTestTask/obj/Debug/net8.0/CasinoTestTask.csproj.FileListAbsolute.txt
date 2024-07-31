@@ -1,0 +1,14 @@
+C:\Users\Bebra\source\repos\CasinoTestTask\CasinoTestTask\bin\Debug\net8.0\CasinoTestTask.exe
+C:\Users\Bebra\source\repos\CasinoTestTask\CasinoTestTask\bin\Debug\net8.0\CasinoTestTask.deps.json
+C:\Users\Bebra\source\repos\CasinoTestTask\CasinoTestTask\bin\Debug\net8.0\CasinoTestTask.runtimeconfig.json
+C:\Users\Bebra\source\repos\CasinoTestTask\CasinoTestTask\bin\Debug\net8.0\CasinoTestTask.dll
+C:\Users\Bebra\source\repos\CasinoTestTask\CasinoTestTask\bin\Debug\net8.0\CasinoTestTask.pdb
+C:\Users\Bebra\source\repos\CasinoTestTask\CasinoTestTask\obj\Debug\net8.0\CasinoTestTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bebra\source\repos\CasinoTestTask\CasinoTestTask\obj\Debug\net8.0\CasinoTestTask.AssemblyInfoInputs.cache
+C:\Users\Bebra\source\repos\CasinoTestTask\CasinoTestTask\obj\Debug\net8.0\CasinoTestTask.AssemblyInfo.cs
+C:\Users\Bebra\source\repos\CasinoTestTask\CasinoTestTask\obj\Debug\net8.0\CasinoTestTask.csproj.CoreCompileInputs.cache
+C:\Users\Bebra\source\repos\CasinoTestTask\CasinoTestTask\obj\Debug\net8.0\CasinoTestTask.dll
+C:\Users\Bebra\source\repos\CasinoTestTask\CasinoTestTask\obj\Debug\net8.0\refint\CasinoTestTask.dll
+C:\Users\Bebra\source\repos\CasinoTestTask\CasinoTestTask\obj\Debug\net8.0\CasinoTestTask.pdb
+C:\Users\Bebra\source\repos\CasinoTestTask\CasinoTestTask\obj\Debug\net8.0\CasinoTestTask.genruntimeconfig.cache
+C:\Users\Bebra\source\repos\CasinoTestTask\CasinoTestTask\obj\Debug\net8.0\ref\CasinoTestTask.dll
